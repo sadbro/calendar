@@ -1,0 +1,11 @@
+<div class="h-[600px] w-[600px]">
+    <full-calendar [options]="calendarOptions"></full-calendar>
+</div>
+<div>
+    <button (click)="range()" class="bg-blue-600">Select Range</button>
+</div>
+<div>
+    Range Selection: {{this.isRangeSelection}}
+</div>
+<button (click)="log()" class="bg-blue-600">Log Dates</button>
+<button (click)="setConfig()" class="bg-blue-600 ml-[10px]">Set Config</button>
