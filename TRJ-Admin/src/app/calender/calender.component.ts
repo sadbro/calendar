@@ -9,6 +9,17 @@ enum STATE {
     CLOSED
 }
 
+interface configMonth {
+    "month": number,
+    "closing": Array<number|Array<number>>
+    "exceptionalOpen": Array<number|Array<number>>
+}
+
+interface config {
+    "year": number,
+    "values": Array<configMonth>
+}
+
 @Component({
   selector: 'app-calender',
   templateUrl: './calender.component.html',
@@ -151,6 +162,41 @@ export class CalenderComponent implements OnInit {
             }
         });
         this.calendarOptions.events = [...this.beEvents];
+    }
+    generateConfig(): void{
+        const config: Array<config> = new Array<config>();
+        const years: Set<number> = new Set<number>();
+        const months: Set<number> = new Set<number>();
+
+        this.Dates.forEach((value, key) => {years.add(UTC(key).getFullYear());});
+        years.forEach((year) => config.push({year:year, values: []}))
+
+        config.forEach((cfg) => {
+            let currentYear: number = cfg.year;
+            this.Dates.forEach((value, key) => {
+                let cDate: Date = UTC(key);
+                if (cDate.getFullYear() === currentYear){
+                    months.add(cDate.getMonth()+1)
+                }
+            })
+            months.forEach((month) => cfg.values.push({month: month, closing: [], exceptionalOpen: []}))
+            cfg.values.forEach(value => {
+                this.Dates.forEach((st, key) => {
+
+                    let dd = UTC(key);
+                    let mm = dd.getMonth()+1;
+                    if ((mm === value.month)){
+                        if (st === STATE.CLOSED){
+                            value.closing.push(dd.getDate())
+                        } else {
+                            value.exceptionalOpen.push(dd.getDate())
+                        }
+                    }
+                })
+            })
+            months.clear();
+        })
+        console.log(config);
     }
 
     handleDateClick(info: DatePointApi): void {

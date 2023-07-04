@@ -332,7 +332,7 @@ const config = {
                     100,
                     101,
                     [1, 15],
-                    [17, 20]
+                    [17, 20],
                 ],
                 "exceptionalOpen": [
                     9,
