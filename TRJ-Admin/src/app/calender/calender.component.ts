@@ -56,7 +56,7 @@ export class CalenderComponent implements OnInit {
                     () => {
                         let days: Array<Date> = INCLUDE_DAY_RANGE(type, this.currentMonth, this.currentYear);
                         element && console.log(element);
-                        days.forEach((value, index) => {
+                        days.forEach((value) => {
                             if ((!this.Dates.has(value.toString())) || (this.Dates.get(value.toString()) === STATE.OPEN)){
                                 this.Dates.set(value.toString(), STATE.CLOSED);
                                 this.addClosure(UTC(value.toString()));
