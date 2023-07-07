@@ -32,6 +32,7 @@ export class CalenderComponent implements OnInit {
     beEvents: Array<any> = [];
     currentMonth: number|null = null;
     currentYear: number|null = null;
+    weird_count: number = 0;
     calendarOptions: CalendarOptions = {
         timeZone: "UTC",
         initialView: "dayGridMonth",
@@ -41,6 +42,7 @@ export class CalenderComponent implements OnInit {
         displayEventTime: false,
         plugins: [dayGridPlugin, interactionPlugin],
         datesSet: (arg) => {
+            this.weird_count += 1;
             this.currentMonth = arg.start.getUTCMonth()+1;
             this.currentYear = arg.start.getUTCFullYear();
             let dd = document.getElementsByClassName("fc-day");
@@ -50,17 +52,20 @@ export class CalenderComponent implements OnInit {
                 // @ts-ignore
                 let type = fromString(element.firstChild["ariaLabel"].toString());
                 // @ts-ignore
-                element.addEventListener("click",
+                (this.weird_count === 1) && element.addEventListener("click",
                     () => {
                         let days: Array<Date> = INCLUDE_DAY_RANGE(type, this.currentMonth, this.currentYear);
-                        days.forEach(value => {
+                        element && console.log(element);
+                        days.forEach((value, index) => {
                             if ((!this.Dates.has(value.toString())) || (this.Dates.get(value.toString()) === STATE.OPEN)){
                                 this.Dates.set(value.toString(), STATE.CLOSED);
                                 this.addClosure(UTC(value.toString()));
-                            }
-                            else {
+                            } else if (this.Dates.get(value.toString()) === STATE.CLOSED) {
                                 this.Dates.set(value.toString(), STATE.OPEN);
                                 this.removeClosure(UTC(value.toString()));
+                            } else {
+                                this.Dates.set(value.toString(), STATE.CLOSED);
+                                this.addClosure(UTC(value.toString()));
                             }
                         });
                         this.calendarOptions.events = [...this.beEvents];

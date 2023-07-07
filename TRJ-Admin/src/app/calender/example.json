@@ -1,0 +1,2704 @@
+{
+    "id": "64849fd6eb4ef71801a86be9",
+    "noOfDays": 3,
+    "name": "continue tested",
+    "intanaryDetails": {
+        "occasion": {
+            "name": "solo"
+        },
+        "personalities": [
+            {
+                "id": "6347022c3fb46118381a2a90",
+                "name": "Elephants",
+                "description": "Need a planned trip. Okay to deviate slightly, but it has to be planned.",
+                "disabled": false,
+                "created_date": "2023-01-31T06:31:13.879Z",
+                "updated_date": "2023-01-31T06:31:13.879Z",
+                "additionalProp1": {}
+            },
+            {
+                "id": "6347022c3fb461768c1a2a92",
+                "name": "Cheetah",
+                "description": "Fast Travel!",
+                "disabled": false,
+                "created_date": "2023-01-31T06:31:13.879Z",
+                "updated_date": "2023-01-31T06:31:13.879Z",
+                "additionalProp1": {}
+            },
+            {
+                "id": "6347022c3fb4613bed1a2a8d",
+                "name": "Meerkat & Warthog",
+                "description": "Travel to Party and Chill",
+                "disabled": false,
+                "created_date": "2023-01-31T06:31:13.879Z",
+                "updated_date": "2023-01-31T06:31:13.879Z",
+                "additionalProp1": {}
+            }
+        ],
+        "startDate": "2024-02-04T22:51:07.000Z",
+        "endDate": null,
+        "startingLocation": {
+            "uniqueId": "SonmargJKNI03",
+            "localId": "SonmargJKNI03",
+            "name": "Sonmarg ",
+            "id": "6483fb50e73dd55a257038c9",
+            "stateId": "6346e8fa3fb4612bad1a2a49",
+            "activitycategoryIds": [
+                "6347022c3fb46118381a2a90",
+                "6347022c3fb4613bed1a2a8d",
+                "6347022c3fb461768c1a2a92",
+                "6347022c3fb4617b0b1a2a8f",
+                "6347022c3fb46182961a2a8e",
+                "6347022c3fb461cf591a2a8b",
+                "6347022c3fb461df901a2a91",
+                "6347022c3fb461e8781a2a8c"
+            ],
+            "personalitiesIds": [
+                "6347022c3fb46118381a2a90",
+                "6347022c3fb4613bed1a2a8d",
+                "6347022c3fb461768c1a2a92",
+                "6347022c3fb4617b0b1a2a8f",
+                "6347022c3fb46182961a2a8e",
+                "6347022c3fb461cf591a2a8b",
+                "6347022c3fb461df901a2a91",
+                "6347022c3fb461e8781a2a8c"
+            ],
+            "configDataIds": [
+                ""
+            ],
+            "transportIds": [],
+            "additionalProp1": {
+                "overViewMonths": [
+                    {
+                        "reasons": "Snow",
+                        "timeline": "2",
+                        "tags": "",
+                        "recommendedFor": "Snow, Honeymoon, Couples, Adventure geeks ",
+                        "monthName": "January",
+                        "thingsToCarry": [
+                            "Winter clothing",
+                            "Water repellent boots",
+                            ""
+                        ],
+                        "notes": [
+                            "Make sure you have the right clothing",
+                            " Avoid going to high altitude on the very first day of your arrival. ",
+                            " For exploring Sonmarg you might have to hire an addition taxi apart from the one you hired from Srinagar. ",
+                            ""
+                        ],
+                        "issues": [
+                            "Pony and taxi prices being overquoted",
+                            ""
+                        ],
+                        "description": "Experience the white magical mountains of Sonmarg in the winter"
+                    },
+                    {
+                        "reasons": "Snow",
+                        "timeline": "2",
+                        "tags": "",
+                        "recommendedFor": "Snow, Honeymoon, Couples, Adventure geeks ",
+                        "monthName": "February",
+                        "thingsToCarry": [
+                            "Winter clothing",
+                            "Water repellent boots",
+                            ""
+                        ],
+                        "notes": [
+                            "Make sure you have the right clothing",
+                            " Avoid going to high altitude on the very first day of your arrival. ",
+                            " For exploring Sonmarg you might have to hire an addition taxi apart from the one you hired from Srinagar. ",
+                            ""
+                        ],
+                        "issues": [
+                            "Pony and taxi prices being overquoted",
+                            ""
+                        ],
+                        "description": "Experience the white magical mountains of Sonmarg in the winter"
+                    },
+                    {
+                        "reasons": "Snow",
+                        "timeline": "2",
+                        "tags": "",
+                        "recommendedFor": "Snow, Honeymoon, Couples, Adventure geeks ",
+                        "monthName": "March",
+                        "thingsToCarry": [
+                            "Winter clothing",
+                            "Water repellent boots",
+                            ""
+                        ],
+                        "notes": [
+                            "Make sure you have the right clothing",
+                            " Avoid going to high altitude on the very first day of your arrival. ",
+                            " For exploring Sonmarg you might have to hire an addition taxi apart from the one you hired from Srinagar. ",
+                            ""
+                        ],
+                        "issues": [
+                            "Pony and taxi prices being overquoted",
+                            ""
+                        ],
+                        "description": "Experience the white magical mountains of Sonmarg in the winter"
+                    },
+                    {
+                        "reasons": "Snow",
+                        "timeline": "2",
+                        "tags": "",
+                        "recommendedFor": "Snow, Honeymoon, Couples, Adventure geeks ",
+                        "monthName": "April",
+                        "thingsToCarry": [
+                            "Winter clothing",
+                            "Water repellent boots",
+                            ""
+                        ],
+                        "notes": [
+                            "Make sure you have the right clothing",
+                            " Avoid going to high altitude on the very first day of your arrival. ",
+                            " For exploring Sonmarg you might have to hire an addition taxi apart from the one you hired from Srinagar. ",
+                            ""
+                        ],
+                        "issues": [
+                            "Pony and taxi prices being overquoted",
+                            ""
+                        ],
+                        "description": "Experience the white magical mountains of Sonmarg in the winter"
+                    },
+                    {
+                        "reasons": "Trekking Green Meadows",
+                        "timeline": "2",
+                        "tags": "",
+                        "recommendedFor": "Trekking Adventure sports Honeymoon Couples",
+                        "monthName": "May",
+                        "thingsToCarry": [
+                            "Rainclothing"
+                        ],
+                        "notes": [
+                            " For exploring Sonmarg you might have to hire an addition taxi apart from the one you hired from Srinagar. ",
+                            "Avoid going to high altitude on the very first day of your arrival. "
+                        ],
+                        "issues": [
+                            "Overquote for pony rides to Thajiwas glacier and taxi for zoji La"
+                        ],
+                        "description": "A paradise for trekkers and adventure sports enthusiasts. "
+                    },
+                    {
+                        "reasons": "",
+                        "timeline": "",
+                        "tags": "",
+                        "recommendedFor": "",
+                        "monthName": "June",
+                        "thingsToCarry": [
+                            ""
+                        ],
+                        "notes": [
+                            ""
+                        ],
+                        "issues": [
+                            ""
+                        ],
+                        "description": ""
+                    },
+                    {
+                        "reasons": "",
+                        "timeline": "",
+                        "tags": "",
+                        "recommendedFor": "",
+                        "monthName": "July",
+                        "thingsToCarry": [
+                            ""
+                        ],
+                        "notes": [
+                            ""
+                        ],
+                        "issues": [
+                            ""
+                        ],
+                        "description": ""
+                    },
+                    {
+                        "reasons": "",
+                        "timeline": "",
+                        "tags": "",
+                        "recommendedFor": "",
+                        "monthName": "August",
+                        "thingsToCarry": [
+                            ""
+                        ],
+                        "notes": [
+                            ""
+                        ],
+                        "issues": [
+                            ""
+                        ],
+                        "description": ""
+                    },
+                    {
+                        "reasons": "",
+                        "timeline": "",
+                        "tags": "",
+                        "recommendedFor": "",
+                        "monthName": "September",
+                        "thingsToCarry": [
+                            ""
+                        ],
+                        "notes": [
+                            ""
+                        ],
+                        "issues": [
+                            ""
+                        ],
+                        "description": ""
+                    },
+                    {
+                        "reasons": "",
+                        "timeline": "",
+                        "tags": "",
+                        "recommendedFor": "",
+                        "monthName": "October",
+                        "thingsToCarry": [
+                            ""
+                        ],
+                        "notes": [
+                            ""
+                        ],
+                        "issues": [
+                            ""
+                        ],
+                        "description": ""
+                    },
+                    {
+                        "reasons": "",
+                        "timeline": "",
+                        "tags": "",
+                        "recommendedFor": "",
+                        "monthName": "November",
+                        "thingsToCarry": [
+                            ""
+                        ],
+                        "notes": [
+                            ""
+                        ],
+                        "issues": [
+                            ""
+                        ],
+                        "description": ""
+                    },
+                    {
+                        "reasons": "Snow",
+                        "timeline": "2",
+                        "tags": "",
+                        "recommendedFor": "Snow, Honeymoon, Couples, Adventure geeks ",
+                        "monthName": "December",
+                        "thingsToCarry": [
+                            "Winter clothing",
+                            "Water repellent boots",
+                            ""
+                        ],
+                        "notes": [
+                            "Make sure you have the right clothing",
+                            " Avoid going to high altitude on the very first day of your arrival. ",
+                            " For exploring Sonmarg you might have to hire an addition taxi apart from the one you hired from Srinagar. ",
+                            ""
+                        ],
+                        "issues": [
+                            "Pony and taxi prices being overquoted",
+                            ""
+                        ],
+                        "description": "Experience the white magical mountains of Sonmarg in the winter"
+                    }
+                ]
+            }
+        },
+        "budget": {
+            "range": {
+                "value": [
+                    20,
+                    71
+                ]
+            },
+            "inclusions": {
+                "flight": false,
+                "hotel": false,
+                "local": false,
+                "activities": false
+            }
+        },
+        "activityCategories": [
+            "644fec44b0d820a85c27cff9",
+            "644fec44b0d82075fa27cff6",
+            "644fec44b0d820423b27cff5"
+        ],
+        "activityOthersValue": null,
+        "regions": [
+            {
+                "regname": "North India",
+                "regimg": "/static/media/North-India.6549c9d7fd2401f0e458.png",
+                "id": "6346e5a43fb4619f9f1a2a41"
+            }
+        ],
+        "states": [
+            {
+                "id": "6346e8fa3fb461a8c81a2a48",
+                "name": "Himachal Pradesh",
+                "uniqueId": "hp001",
+                "localId": "hp001",
+                "regionId": "6346e5a43fb4619f9f1a2a41",
+                "additionalProp1": {}
+            }
+        ],
+        "cities": [
+            {
+                "uniqueId": "ManaliNIHP1",
+                "localId": "ManaliNIHP1",
+                "name": "Manali",
+                "id": "646c6aca6077d08329efe304",
+                "stateId": "6346e8fa3fb461a8c81a2a48",
+                "activitycategoryIds": [
+                    "6347022c3fb46118381a2a90",
+                    "6347022c3fb4613bed1a2a8d",
+                    "6347022c3fb461768c1a2a92",
+                    "6347022c3fb4617b0b1a2a8f",
+                    "6347022c3fb46182961a2a8e",
+                    "6347022c3fb461cf591a2a8b",
+                    "6347022c3fb461df901a2a91",
+                    "6347022c3fb461e8781a2a8c"
+                ],
+                "personalitiesIds": [
+                    "6347022c3fb46118381a2a90",
+                    "6347022c3fb4613bed1a2a8d",
+                    "6347022c3fb461768c1a2a92",
+                    "6347022c3fb4617b0b1a2a8f",
+                    "6347022c3fb46182961a2a8e",
+                    "6347022c3fb461cf591a2a8b",
+                    "6347022c3fb461df901a2a91",
+                    "6347022c3fb461e8781a2a8c"
+                ],
+                "transportIds": [],
+                "additionalProp1": {
+                    "overViewMonths": [
+                        {
+                            "reasons": "NA",
+                            "timeline": "3",
+                            "tags": [
+                                "Snow",
+                                "Mountains",
+                                "Adventure Sports",
+                                "Rafting"
+                            ],
+                            "temperature": "",
+                            "recommendedFor": "All",
+                            "monthName": "January",
+                            "thingsToCarry": [
+                                "Thermals",
+                                "Jacket",
+                                "Gloves",
+                                "Warm Clothes"
+                            ],
+                            "notes": [
+                                "Avoid any high altitude for snow activities on day 1 - get acclimatized well",
+                                "Check the weather conditions for all your clothing requirements"
+                            ],
+                            "issues": [
+                                "Roads may be blocked due to heavy snowfall",
+                                "Few activities may be closed"
+                            ],
+                            "description": "Manali, located in the Indian state of Himachal Pradesh, is a popular tourist destination known for its stunning natural beauty and picturesque landscapes. Winter in Manali transforms the region into a winter wonderland, offering a unique and enchanting experience for visitors."
+                        },
+                        {
+                            "reasons": "",
+                            "timeline": "3",
+                            "tags": [
+                                "Snow"
+                            ],
+                            "temperature": "",
+                            "recommendedFor": "All",
+                            "monthName": "February",
+                            "thingsToCarry": [
+                                "Thermals",
+                                "Warm Clothes",
+                                ""
+                            ],
+                            "notes": [
+                                "Avoid any high altitude for snow activities on day 1 - get acclimatized well",
+                                "Check the weather conditions for all your clothing requirements"
+                            ],
+                            "issues": [
+                                "Few activities may be closed",
+                                "Roads may be blocked due to heavy snowfall"
+                            ],
+                            "description": "Manali, located in the Indian state of Himachal Pradesh, is a popular tourist destination known for its stunning natural beauty and picturesque landscapes. Winter in Manali transforms the region into a winter wonderland, offering a unique and enchanting experience for visitors."
+                        },
+                        {
+                            "reasons": "",
+                            "timeline": "",
+                            "tags": "",
+                            "temperature": "",
+                            "recommendedFor": "",
+                            "monthName": "March",
+                            "thingsToCarry": [
+                                ""
+                            ],
+                            "notes": [
+                                ""
+                            ],
+                            "issues": [
+                                ""
+                            ],
+                            "description": ""
+                        },
+                        {
+                            "reasons": "",
+                            "timeline": "",
+                            "tags": "",
+                            "temperature": "",
+                            "recommendedFor": "",
+                            "monthName": "April",
+                            "thingsToCarry": [
+                                ""
+                            ],
+                            "notes": [
+                                ""
+                            ],
+                            "issues": [
+                                ""
+                            ],
+                            "description": ""
+                        },
+                        {
+                            "reasons": "",
+                            "timeline": "",
+                            "tags": "",
+                            "temperature": "",
+                            "recommendedFor": "",
+                            "monthName": "May",
+                            "thingsToCarry": [
+                                ""
+                            ],
+                            "notes": [
+                                ""
+                            ],
+                            "issues": [
+                                ""
+                            ],
+                            "description": ""
+                        },
+                        {
+                            "reasons": "",
+                            "timeline": "",
+                            "tags": "",
+                            "temperature": "",
+                            "recommendedFor": "",
+                            "monthName": "June",
+                            "thingsToCarry": [
+                                ""
+                            ],
+                            "notes": [
+                                ""
+                            ],
+                            "issues": [
+                                ""
+                            ],
+                            "description": ""
+                        },
+                        {
+                            "reasons": "",
+                            "timeline": "",
+                            "tags": "",
+                            "temperature": "",
+                            "recommendedFor": "",
+                            "monthName": "July",
+                            "thingsToCarry": [
+                                ""
+                            ],
+                            "notes": [
+                                ""
+                            ],
+                            "issues": [
+                                ""
+                            ],
+                            "description": ""
+                        },
+                        {
+                            "reasons": "",
+                            "timeline": "",
+                            "tags": "",
+                            "temperature": "",
+                            "recommendedFor": "",
+                            "monthName": "August",
+                            "thingsToCarry": [
+                                ""
+                            ],
+                            "notes": [
+                                ""
+                            ],
+                            "issues": [
+                                ""
+                            ],
+                            "description": ""
+                        },
+                        {
+                            "reasons": "",
+                            "timeline": "",
+                            "tags": "",
+                            "temperature": "",
+                            "recommendedFor": "",
+                            "monthName": "September",
+                            "thingsToCarry": [
+                                ""
+                            ],
+                            "notes": [
+                                ""
+                            ],
+                            "issues": [
+                                ""
+                            ],
+                            "description": ""
+                        },
+                        {
+                            "reasons": "",
+                            "timeline": "",
+                            "tags": "",
+                            "temperature": "",
+                            "recommendedFor": "",
+                            "monthName": "October",
+                            "thingsToCarry": [
+                                ""
+                            ],
+                            "notes": [
+                                ""
+                            ],
+                            "issues": [
+                                ""
+                            ],
+                            "description": ""
+                        },
+                        {
+                            "reasons": "",
+                            "timeline": "",
+                            "tags": "",
+                            "temperature": "",
+                            "recommendedFor": "",
+                            "monthName": "November",
+                            "thingsToCarry": [
+                                ""
+                            ],
+                            "notes": [
+                                ""
+                            ],
+                            "issues": [
+                                ""
+                            ],
+                            "description": ""
+                        },
+                        {
+                            "reasons": "",
+                            "timeline": "",
+                            "tags": "",
+                            "temperature": "",
+                            "recommendedFor": "",
+                            "monthName": "December",
+                            "thingsToCarry": [
+                                ""
+                            ],
+                            "notes": [
+                                ""
+                            ],
+                            "issues": [
+                                ""
+                            ],
+                            "description": ""
+                        }
+                    ]
+                }
+            },
+            {
+                "uniqueId": "BirNIHP1",
+                "localId": "BirNIHP1",
+                "name": "Bir",
+                "id": "646f30f16077d01e2befe31c",
+                "stateId": "6346e8fa3fb461a8c81a2a48",
+                "activitycategoryIds": [
+                    "6347022c3fb46118381a2a90",
+                    "6347022c3fb4613bed1a2a8d",
+                    "6347022c3fb461768c1a2a92",
+                    "6347022c3fb4617b0b1a2a8f",
+                    "6347022c3fb46182961a2a8e",
+                    "6347022c3fb461cf591a2a8b",
+                    "6347022c3fb461df901a2a91",
+                    "6347022c3fb461e8781a2a8c"
+                ],
+                "personalitiesIds": [
+                    "6347022c3fb46118381a2a90",
+                    "6347022c3fb4613bed1a2a8d",
+                    "6347022c3fb461768c1a2a92",
+                    "6347022c3fb4617b0b1a2a8f",
+                    "6347022c3fb46182961a2a8e",
+                    "6347022c3fb461cf591a2a8b",
+                    "6347022c3fb461df901a2a91",
+                    "6347022c3fb461e8781a2a8c"
+                ],
+                "configDataIds": [
+                    ""
+                ],
+                "transportIds": [],
+                "additionalProp1": {
+                    "overViewMonths": [
+                        {
+                            "reasons": "NA",
+                            "timeline": "3",
+                            "tags": [
+                                "Snow",
+                                "Mountains",
+                                "Rafting",
+                                "Adventure Sports"
+                            ],
+                            "temperature": "",
+                            "recommendedFor": "All",
+                            "monthName": "January",
+                            "thingsToCarry": [
+                                "Thermals"
+                            ],
+                            "notes": [
+                                ""
+                            ],
+                            "issues": [
+                                ""
+                            ],
+                            "description": ""
+                        },
+                        {
+                            "reasons": "NA",
+                            "timeline": "3",
+                            "tags": [
+                                "Snow",
+                                "Mountains",
+                                "Rafting",
+                                "Adventure Sports"
+                            ],
+                            "temperature": "",
+                            "recommendedFor": "All",
+                            "monthName": "February",
+                            "thingsToCarry": [
+                                ""
+                            ],
+                            "notes": [
+                                ""
+                            ],
+                            "issues": [
+                                ""
+                            ],
+                            "description": ""
+                        },
+                        {
+                            "reasons": "",
+                            "timeline": "",
+                            "tags": "",
+                            "temperature": "",
+                            "recommendedFor": "",
+                            "monthName": "March",
+                            "thingsToCarry": [
+                                ""
+                            ],
+                            "notes": [
+                                ""
+                            ],
+                            "issues": [
+                                ""
+                            ],
+                            "description": ""
+                        },
+                        {
+                            "reasons": "",
+                            "timeline": "",
+                            "tags": "",
+                            "temperature": "",
+                            "recommendedFor": "",
+                            "monthName": "April",
+                            "thingsToCarry": [
+                                ""
+                            ],
+                            "notes": [
+                                ""
+                            ],
+                            "issues": [
+                                ""
+                            ],
+                            "description": ""
+                        },
+                        {
+                            "reasons": "",
+                            "timeline": "",
+                            "tags": "",
+                            "temperature": "",
+                            "recommendedFor": "",
+                            "monthName": "May",
+                            "thingsToCarry": [
+                                ""
+                            ],
+                            "notes": [
+                                ""
+                            ],
+                            "issues": [
+                                ""
+                            ],
+                            "description": ""
+                        },
+                        {
+                            "reasons": "",
+                            "timeline": "",
+                            "tags": "",
+                            "temperature": "",
+                            "recommendedFor": "",
+                            "monthName": "June",
+                            "thingsToCarry": [
+                                ""
+                            ],
+                            "notes": [
+                                ""
+                            ],
+                            "issues": [
+                                ""
+                            ],
+                            "description": ""
+                        },
+                        {
+                            "reasons": "",
+                            "timeline": "",
+                            "tags": "",
+                            "temperature": "",
+                            "recommendedFor": "",
+                            "monthName": "July",
+                            "thingsToCarry": [
+                                ""
+                            ],
+                            "notes": [
+                                ""
+                            ],
+                            "issues": [
+                                ""
+                            ],
+                            "description": ""
+                        },
+                        {
+                            "reasons": "",
+                            "timeline": "",
+                            "tags": "",
+                            "temperature": "",
+                            "recommendedFor": "",
+                            "monthName": "August",
+                            "thingsToCarry": [
+                                ""
+                            ],
+                            "notes": [
+                                ""
+                            ],
+                            "issues": [
+                                ""
+                            ],
+                            "description": ""
+                        },
+                        {
+                            "reasons": "",
+                            "timeline": "",
+                            "tags": "",
+                            "temperature": "",
+                            "recommendedFor": "",
+                            "monthName": "September",
+                            "thingsToCarry": [
+                                ""
+                            ],
+                            "notes": [
+                                ""
+                            ],
+                            "issues": [
+                                ""
+                            ],
+                            "description": ""
+                        },
+                        {
+                            "reasons": "",
+                            "timeline": "",
+                            "tags": "",
+                            "temperature": "",
+                            "recommendedFor": "",
+                            "monthName": "October",
+                            "thingsToCarry": [
+                                ""
+                            ],
+                            "notes": [
+                                ""
+                            ],
+                            "issues": [
+                                ""
+                            ],
+                            "description": ""
+                        },
+                        {
+                            "reasons": "",
+                            "timeline": "",
+                            "tags": "",
+                            "temperature": "",
+                            "recommendedFor": "",
+                            "monthName": "November",
+                            "thingsToCarry": [
+                                ""
+                            ],
+                            "notes": [
+                                ""
+                            ],
+                            "issues": [
+                                ""
+                            ],
+                            "description": ""
+                        },
+                        {
+                            "reasons": "NA",
+                            "timeline": "3",
+                            "tags": [
+                                "Snow",
+                                "Mountains",
+                                "Rafting",
+                                "Adventure Sports"
+                            ],
+                            "temperature": "",
+                            "recommendedFor": "All",
+                            "monthName": "December",
+                            "thingsToCarry": [
+                                ""
+                            ],
+                            "notes": [
+                                ""
+                            ],
+                            "issues": [
+                                ""
+                            ],
+                            "description": ""
+                        }
+                    ]
+                }
+            }
+        ],
+        "setselecteddays": "033",
+        "schedule": [
+            {
+                "day": 1,
+                "selectedcity": {
+                    "uniqueId": "ManaliNIHP1",
+                    "localId": "ManaliNIHP1",
+                    "name": "Manali",
+                    "id": "646c6aca6077d08329efe304",
+                    "stateId": "6346e8fa3fb461a8c81a2a48",
+                    "activitycategoryIds": [
+                        "6347022c3fb46118381a2a90",
+                        "6347022c3fb4613bed1a2a8d",
+                        "6347022c3fb461768c1a2a92",
+                        "6347022c3fb4617b0b1a2a8f",
+                        "6347022c3fb46182961a2a8e",
+                        "6347022c3fb461cf591a2a8b",
+                        "6347022c3fb461df901a2a91",
+                        "6347022c3fb461e8781a2a8c"
+                    ],
+                    "personalitiesIds": [
+                        "6347022c3fb46118381a2a90",
+                        "6347022c3fb4613bed1a2a8d",
+                        "6347022c3fb461768c1a2a92",
+                        "6347022c3fb4617b0b1a2a8f",
+                        "6347022c3fb46182961a2a8e",
+                        "6347022c3fb461cf591a2a8b",
+                        "6347022c3fb461df901a2a91",
+                        "6347022c3fb461e8781a2a8c"
+                    ],
+                    "transportIds": [],
+                    "additionalProp1": {
+                        "overViewMonths": [
+                            {
+                                "reasons": "NA",
+                                "timeline": "3",
+                                "tags": [
+                                    "Snow",
+                                    "Mountains",
+                                    "Adventure Sports",
+                                    "Rafting"
+                                ],
+                                "temperature": "",
+                                "recommendedFor": "All",
+                                "monthName": "January",
+                                "thingsToCarry": [
+                                    "Thermals",
+                                    "Jacket",
+                                    "Gloves",
+                                    "Warm Clothes"
+                                ],
+                                "notes": [
+                                    "Avoid any high altitude for snow activities on day 1 - get acclimatized well",
+                                    "Check the weather conditions for all your clothing requirements"
+                                ],
+                                "issues": [
+                                    "Roads may be blocked due to heavy snowfall",
+                                    "Few activities may be closed"
+                                ],
+                                "description": "Manali, located in the Indian state of Himachal Pradesh, is a popular tourist destination known for its stunning natural beauty and picturesque landscapes. Winter in Manali transforms the region into a winter wonderland, offering a unique and enchanting experience for visitors."
+                            },
+                            {
+                                "reasons": "",
+                                "timeline": "3",
+                                "tags": [
+                                    "Snow"
+                                ],
+                                "temperature": "",
+                                "recommendedFor": "All",
+                                "monthName": "February",
+                                "thingsToCarry": [
+                                    "Thermals",
+                                    "Warm Clothes",
+                                    ""
+                                ],
+                                "notes": [
+                                    "Avoid any high altitude for snow activities on day 1 - get acclimatized well",
+                                    "Check the weather conditions for all your clothing requirements"
+                                ],
+                                "issues": [
+                                    "Few activities may be closed",
+                                    "Roads may be blocked due to heavy snowfall"
+                                ],
+                                "description": "Manali, located in the Indian state of Himachal Pradesh, is a popular tourist destination known for its stunning natural beauty and picturesque landscapes. Winter in Manali transforms the region into a winter wonderland, offering a unique and enchanting experience for visitors."
+                            },
+                            {
+                                "reasons": "",
+                                "timeline": "",
+                                "tags": "",
+                                "temperature": "",
+                                "recommendedFor": "",
+                                "monthName": "March",
+                                "thingsToCarry": [
+                                    ""
+                                ],
+                                "notes": [
+                                    ""
+                                ],
+                                "issues": [
+                                    ""
+                                ],
+                                "description": ""
+                            },
+                            {
+                                "reasons": "",
+                                "timeline": "",
+                                "tags": "",
+                                "temperature": "",
+                                "recommendedFor": "",
+                                "monthName": "April",
+                                "thingsToCarry": [
+                                    ""
+                                ],
+                                "notes": [
+                                    ""
+                                ],
+                                "issues": [
+                                    ""
+                                ],
+                                "description": ""
+                            },
+                            {
+                                "reasons": "",
+                                "timeline": "",
+                                "tags": "",
+                                "temperature": "",
+                                "recommendedFor": "",
+                                "monthName": "May",
+                                "thingsToCarry": [
+                                    ""
+                                ],
+                                "notes": [
+                                    ""
+                                ],
+                                "issues": [
+                                    ""
+                                ],
+                                "description": ""
+                            },
+                            {
+                                "reasons": "",
+                                "timeline": "",
+                                "tags": "",
+                                "temperature": "",
+                                "recommendedFor": "",
+                                "monthName": "June",
+                                "thingsToCarry": [
+                                    ""
+                                ],
+                                "notes": [
+                                    ""
+                                ],
+                                "issues": [
+                                    ""
+                                ],
+                                "description": ""
+                            },
+                            {
+                                "reasons": "",
+                                "timeline": "",
+                                "tags": "",
+                                "temperature": "",
+                                "recommendedFor": "",
+                                "monthName": "July",
+                                "thingsToCarry": [
+                                    ""
+                                ],
+                                "notes": [
+                                    ""
+                                ],
+                                "issues": [
+                                    ""
+                                ],
+                                "description": ""
+                            },
+                            {
+                                "reasons": "",
+                                "timeline": "",
+                                "tags": "",
+                                "temperature": "",
+                                "recommendedFor": "",
+                                "monthName": "August",
+                                "thingsToCarry": [
+                                    ""
+                                ],
+                                "notes": [
+                                    ""
+                                ],
+                                "issues": [
+                                    ""
+                                ],
+                                "description": ""
+                            },
+                            {
+                                "reasons": "",
+                                "timeline": "",
+                                "tags": "",
+                                "temperature": "",
+                                "recommendedFor": "",
+                                "monthName": "September",
+                                "thingsToCarry": [
+                                    ""
+                                ],
+                                "notes": [
+                                    ""
+                                ],
+                                "issues": [
+                                    ""
+                                ],
+                                "description": ""
+                            },
+                            {
+                                "reasons": "",
+                                "timeline": "",
+                                "tags": "",
+                                "temperature": "",
+                                "recommendedFor": "",
+                                "monthName": "October",
+                                "thingsToCarry": [
+                                    ""
+                                ],
+                                "notes": [
+                                    ""
+                                ],
+                                "issues": [
+                                    ""
+                                ],
+                                "description": ""
+                            },
+                            {
+                                "reasons": "",
+                                "timeline": "",
+                                "tags": "",
+                                "temperature": "",
+                                "recommendedFor": "",
+                                "monthName": "November",
+                                "thingsToCarry": [
+                                    ""
+                                ],
+                                "notes": [
+                                    ""
+                                ],
+                                "issues": [
+                                    ""
+                                ],
+                                "description": ""
+                            },
+                            {
+                                "reasons": "",
+                                "timeline": "",
+                                "tags": "",
+                                "temperature": "",
+                                "recommendedFor": "",
+                                "monthName": "December",
+                                "thingsToCarry": [
+                                    ""
+                                ],
+                                "notes": [
+                                    ""
+                                ],
+                                "issues": [
+                                    ""
+                                ],
+                                "description": ""
+                            }
+                        ]
+                    }
+                },
+                "staySelected": {
+                    "id": "646c71b56077d0cd2eefe30b",
+                    "name": "GoStops Manali",
+                    "images": [
+                        "http://thereturnjourney.in/files/Screenshot 2023-05-22 162946.png",
+                        "http://thereturnjourney.in/files/Screenshot 2023-05-22 163007.png"
+                    ],
+                    "description": "Situated just 400 m away from the city center in the Old Manali district of Manali, goSTOPS Manali can be found near popular points of interest including the Tibetan Monastery, Circuit House, and Manu Temple. From rafting, hiking, and biking to skiing and paragliding there are so many adventures on our doorstep to choose from.",
+                    "additionalProp": {
+                        "regionId": "6346e5a43fb4619f9f1a2a41",
+                        "stateId": "6346e8fa3fb461a8c81a2a48",
+                        "address": "Near Oak Land House",
+                        "mapLink": "https://goo.gl/maps/SMa9qWMn1QR85JAP6",
+                        "landMark": {
+                            "landMarkName": "Old Manali",
+                            "landMarkPincode": "175131"
+                        },
+                        "ocassions": [
+                            "63d8005e4dedc468d530d7f0",
+                            "63d8016c4dedc4ed5b30d7f1",
+                            "63d8b2fa4dedc406b330d7f2",
+                            "63d8b3414dedc45c6c30d7f3",
+                            "63d8b37b4dedc4541930d7f4",
+                            "63d8b3914dedc4ee3430d7f5"
+                        ],
+                        "personalities": [
+                            "6347022c3fb46118381a2a90",
+                            "6347022c3fb4613bed1a2a8d",
+                            "6347022c3fb461768c1a2a92",
+                            "6347022c3fb4617b0b1a2a8f",
+                            "6347022c3fb46182961a2a8e",
+                            "6347022c3fb461cf591a2a8b",
+                            "6347022c3fb461df901a2a91",
+                            "6347022c3fb461e8781a2a8c"
+                        ],
+                        "addLink": [
+                            "https://www.booking.com/Share-qWPgy0"
+                        ]
+                    },
+                    "staycategoryId": "63d213534dedc48b8030d796",
+                    "cityId": "646c6aca6077d08329efe304",
+                    "staycategory": {
+                        "name": "Hostel",
+                        "id": "63d213534dedc48b8030d796"
+                    },
+                    "city": {
+                        "name": "Manali",
+                        "id": "646c6aca6077d08329efe304"
+                    }
+                },
+                "activitySelected": [
+                    {
+                        "name": "Manu Temple",
+                        "description": "Manu temple is located in Old Manali village. It is believed that Manu after the great deluge, first stepped on earth from the celestial boat and this particular spot where he established his abode is the present Manali, which is derived from ‘Manu Allaya’, meaning the home of Manu. It was from here that the human race came into being after deluge. The Manu temple is the only temple on the earth dedicated to Manu.",
+                        "id": "6485709feb4ef75ce8a86bf8",
+                        "openningTime": {
+                            "openDays": [
+                                "2023-06-10T18:30:00.000Z",
+                                "2024-06-10T18:30:00.000Z"
+                            ],
+                            "openTime": ""
+                        },
+                        "closingTime": {
+                            "closeDays": "",
+                            "closeTime": ""
+                        },
+                        "idealTimeToVisit": {
+                            "idealTime": "1",
+                            "idealDuration": "1 Hour"
+                        },
+                        "location": {
+                            "regionId": "6346e5a43fb4619f9f1a2a41",
+                            "stateId": "6346e8fa3fb461a8c81a2a48",
+                            "cityId": "646c6aca6077d08329efe304",
+                            "address": "Himachal Pradesh, Near Manu temple, Manu Temple Rd, Old Manali, Manali, Himachal Pradesh 175131",
+                            "landMark": {
+                                "landMarkName": "Manu Temple Road",
+                                "landMarkPincode": "175131"
+                            }
+                        },
+                        "cost": [
+                            {
+                                "": {
+                                    "citizen": "",
+                                    "individual": "",
+                                    "student": "",
+                                    "fee": ""
+                                }
+                            }
+                        ],
+                        "scope": false,
+                        "vendorInstructions": {
+                            "notes": [
+                                "The auto charges whooping Rs.200 to go to this temple from Old Manali Bridge",
+                                "The way towards temple has lot of hippie style cafes and Tatto shops. There are many shops selling leather items."
+                            ],
+                            "issues": [
+                                "Its difficult for drivers to drive as it has steep road. ",
+                                "Parking issues"
+                            ],
+                            "inclusions": [],
+                            "exclusions": [],
+                            "suggestions": [
+                                "sunglasses"
+                            ]
+                        },
+                        "disabled": false,
+                        "selectedVendor": true,
+                        "addtionalData": {
+                            "ocassions": [
+                                "63d8005e4dedc468d530d7f0",
+                                "63d8016c4dedc4ed5b30d7f1",
+                                "63d8b2fa4dedc406b330d7f2",
+                                "63d8b3414dedc45c6c30d7f3",
+                                "63d8b37b4dedc4541930d7f4",
+                                "63d8b3914dedc4ee3430d7f5"
+                            ],
+                            "personalities": [
+                                "6347022c3fb46118381a2a90",
+                                "6347022c3fb4613bed1a2a8d",
+                                "6347022c3fb461768c1a2a92",
+                                "6347022c3fb4617b0b1a2a8f",
+                                "6347022c3fb46182961a2a8e",
+                                "6347022c3fb461cf591a2a8b",
+                                "6347022c3fb461df901a2a91",
+                                "6347022c3fb461e8781a2a8c"
+                            ],
+                            "activityTags": "ancient temple",
+                            "images": [
+                                "http://thereturnjourney.in/files/ManuTemple.jpg",
+                                "http://thereturnjourney.in/files/ManuTemple1.jpg"
+                            ],
+                            "additionalCharges": []
+                        },
+                        "cityId": "646c6aca6077d08329efe304",
+                        "activityId": "646fe802f7d0fecfbacd07cf",
+                        "city": {
+                            "name": "Manali",
+                            "id": "646c6aca6077d08329efe304"
+                        },
+                        "activity": {
+                            "id": "646fe802f7d0fecfbacd07cf",
+                            "name": "Temple Visit",
+                            "activitycategoryId": "644fec44b0d820a85c27cff9",
+                            "activitycategory": {
+                                "name": "Art & Culture",
+                                "id": "644fec44b0d820a85c27cff9"
+                            }
+                        }
+                    },
+                    {
+                        "name": "Rafting in Kullu and Manali",
+                        "description": "Rafting in Manali is an exciting adventure activity that allows you to experience the thrill of navigating through fast-flowing rivers amidst beautiful landscapes. Manali, located in the Indian state of Himachal Pradesh, offers several opportunities for river rafting due to its proximity to the Beas River.",
+                        "id": "6471dafdc2a6cf343550c454",
+                        "openningTime": {
+                            "openDays": [
+                                "2023-05-26T18:30:00.000Z",
+                                "2024-05-30T18:30:00.000Z"
+                            ],
+                            "openTime": "08:00"
+                        },
+                        "closingTime": {
+                            "closeDays": [
+                                "2023-06-30T18:30:00.000Z",
+                                "2023-07-30T18:30:00.000Z"
+                            ],
+                            "closeTime": "17:00"
+                        },
+                        "idealTimeToVisit": {
+                            "idealTime": "Whole Day",
+                            "idealDuration": "2 Hours"
+                        },
+                        "location": {
+                            "regionId": "6346e5a43fb4619f9f1a2a41",
+                            "stateId": "6346e8fa3fb461a8c81a2a48",
+                            "cityId": "646c6aca6077d08329efe304",
+                            "address": "Kullu ",
+                            "landMark": {
+                                "landMarkName": "Kullu",
+                                "landMarkPincode": "175101"
+                            }
+                        },
+                        "cost": [
+                            {
+                                "7 KM": {
+                                    "citizen": "Indian",
+                                    "individual": "500",
+                                    "student": "",
+                                    "fee": "7 KM"
+                                }
+                            },
+                            {
+                                "9 KM": {
+                                    "citizen": "Indian",
+                                    "individual": "700",
+                                    "student": "",
+                                    "fee": "9 KM"
+                                }
+                            },
+                            {
+                                "12 KM": {
+                                    "citizen": "Indian",
+                                    "individual": "900",
+                                    "student": "",
+                                    "fee": "12 KM"
+                                }
+                            }
+                        ],
+                        "scope": false,
+                        "vendorInstructions": {
+                            "notes": [
+                                "You don’t need to know swimming for this activity"
+                            ],
+                            "issues": [
+                                "During rains, it remain closed"
+                            ],
+                            "inclusions": [
+                                "Guide",
+                                "Rafting equipments",
+                                "Life Jacket"
+                            ],
+                            "exclusions": [
+                                "Clothes Changing booth cost (approximate 10- 20 INR)",
+                                "If booking only rafting, to & from charges",
+                                "Anything not mentioned in inclusions"
+                            ],
+                            "suggestions": [
+                                "Extra pair of clothes",
+                                "Carry bag to carry wet clothes"
+                            ]
+                        },
+                        "disabled": false,
+                        "selectedVendor": true,
+                        "addtionalData": {
+                            "ocassions": [
+                                "63d8005e4dedc468d530d7f0",
+                                "63d8016c4dedc4ed5b30d7f1",
+                                "63d8b2fa4dedc406b330d7f2",
+                                "63d8b3414dedc45c6c30d7f3",
+                                "63d8b37b4dedc4541930d7f4",
+                                "63d8b3914dedc4ee3430d7f5"
+                            ],
+                            "personalities": [],
+                            "activityTags": "river, rafting",
+                            "images": [
+                                "http://thereturnjourney.in/files/rafting.jpeg",
+                                "http://thereturnjourney.in/files/rafting_1.jpg"
+                            ],
+                            "additionalCharges": [
+                                {
+                                    "title": "GoPro",
+                                    "pricing": "200"
+                                }
+                            ]
+                        },
+                        "cityId": "646c6aca6077d08329efe304",
+                        "activityId": "646c734b6077d0eaf1efe30c",
+                        "city": {
+                            "name": "Manali",
+                            "id": "646c6aca6077d08329efe304"
+                        },
+                        "activity": {
+                            "id": "646c734b6077d0eaf1efe30c",
+                            "name": "Rafting",
+                            "activitycategoryId": "644fec44b0d820423b27cff5",
+                            "activitycategory": {
+                                "name": "Adventure Sports",
+                                "id": "644fec44b0d820423b27cff5"
+                            }
+                        }
+                    },
+                    {
+                        "name": "Paragliding Near Rohtang La",
+                        "description": "Rohtang Wala - Paragliding is a recreational and competitive adventure sport that involves flying a lightweight, foot-launched glider aircraft known as a paraglider.",
+                        "id": "64743bcf74fa4b211783c0d2",
+                        "openningTime": {
+                            "openDays": [
+                                "2023-05-09T18:30:00.000Z",
+                                "2023-06-14T18:30:00.000Z"
+                            ],
+                            "openTime": "09:00"
+                        },
+                        "closingTime": {
+                            "closeDays": "",
+                            "closeTime": "16:00"
+                        },
+                        "idealTimeToVisit": {
+                            "idealTime": "Late Afternoon",
+                            "idealDuration": "3 Hours"
+                        },
+                        "location": {
+                            "regionId": "6346e5a43fb4619f9f1a2a41",
+                            "stateId": "6346e8fa3fb461a8c81a2a48",
+                            "cityId": "646c6aca6077d08329efe304",
+                            "address": "857V+WMW",
+                            "landMark": {
+                                "landMarkName": "Kothi",
+                                "landMarkPincode": "175103"
+                            }
+                        },
+                        "cost": [
+                            {
+                                "25 minutes": {
+                                    "citizen": "Indian",
+                                    "individual": "3500",
+                                    "student": "",
+                                    "fee": "25 minutes"
+                                }
+                            }
+                        ],
+                        "scope": false,
+                        "vendorInstructions": {
+                            "notes": [
+                                "Bahutich kam time rehta ye saalme",
+                                "Mast h ekdam karneka ye mauka mila to"
+                            ],
+                            "issues": [
+                                "Clouds me nahi hota re baba",
+                                "Any random moment it may get canceled due to weather conditions and situation at that moment"
+                            ],
+                            "inclusions": [
+                                "Kuch nahi milega re tereko tu paisa bharneka and bhagwan bharose rehneka",
+                                "Agar pura gadi book kara rahenga to thik h varna vaha paragliding site the kon tera baap pahuchayega kya"
+                            ],
+                            "exclusions": [
+                                "Sabkuch kabhi kabhi to paragliding bhi exclusion me aa sakta miya"
+                            ],
+                            "suggestions": []
+                        },
+                        "disabled": false,
+                        "selectedVendor": true,
+                        "addtionalData": {
+                            "ocassions": [
+                                "63d8005e4dedc468d530d7f0",
+                                "63d8016c4dedc4ed5b30d7f1",
+                                "63d8b2fa4dedc406b330d7f2",
+                                "63d8b3414dedc45c6c30d7f3",
+                                "63d8b37b4dedc4541930d7f4",
+                                "63d8b3914dedc4ee3430d7f5"
+                            ],
+                            "personalities": "",
+                            "activityTags": "ThikKardoPlease",
+                            "images": [
+                                "http://thereturnjourney.in/files/ROhtang Para 2.png",
+                                "http://thereturnjourney.in/files/Rohtang Paragliding.png"
+                            ],
+                            "additionalCharges": [
+                                {
+                                    "title": "Camera",
+                                    "pricing": "500"
+                                }
+                            ]
+                        },
+                        "cityId": "646c6aca6077d08329efe304",
+                        "activityId": "6474302874fa4b0c3183c0ca",
+                        "city": {
+                            "name": "Manali",
+                            "id": "646c6aca6077d08329efe304"
+                        },
+                        "activity": {
+                            "id": "6474302874fa4b0c3183c0ca",
+                            "name": "Paragliding",
+                            "activitycategoryId": "644fec44b0d820423b27cff5",
+                            "activitycategory": {
+                                "name": "Adventure Sports",
+                                "id": "644fec44b0d820423b27cff5"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "day": 2,
+                "selectedcity": {
+                    "uniqueId": "ManaliNIHP1",
+                    "localId": "ManaliNIHP1",
+                    "name": "Manali",
+                    "id": "646c6aca6077d08329efe304",
+                    "stateId": "6346e8fa3fb461a8c81a2a48",
+                    "activitycategoryIds": [
+                        "6347022c3fb46118381a2a90",
+                        "6347022c3fb4613bed1a2a8d",
+                        "6347022c3fb461768c1a2a92",
+                        "6347022c3fb4617b0b1a2a8f",
+                        "6347022c3fb46182961a2a8e",
+                        "6347022c3fb461cf591a2a8b",
+                        "6347022c3fb461df901a2a91",
+                        "6347022c3fb461e8781a2a8c"
+                    ],
+                    "personalitiesIds": [
+                        "6347022c3fb46118381a2a90",
+                        "6347022c3fb4613bed1a2a8d",
+                        "6347022c3fb461768c1a2a92",
+                        "6347022c3fb4617b0b1a2a8f",
+                        "6347022c3fb46182961a2a8e",
+                        "6347022c3fb461cf591a2a8b",
+                        "6347022c3fb461df901a2a91",
+                        "6347022c3fb461e8781a2a8c"
+                    ],
+                    "transportIds": [],
+                    "additionalProp1": {
+                        "overViewMonths": [
+                            {
+                                "reasons": "NA",
+                                "timeline": "3",
+                                "tags": [
+                                    "Snow",
+                                    "Mountains",
+                                    "Adventure Sports",
+                                    "Rafting"
+                                ],
+                                "temperature": "",
+                                "recommendedFor": "All",
+                                "monthName": "January",
+                                "thingsToCarry": [
+                                    "Thermals",
+                                    "Jacket",
+                                    "Gloves",
+                                    "Warm Clothes"
+                                ],
+                                "notes": [
+                                    "Avoid any high altitude for snow activities on day 1 - get acclimatized well",
+                                    "Check the weather conditions for all your clothing requirements"
+                                ],
+                                "issues": [
+                                    "Roads may be blocked due to heavy snowfall",
+                                    "Few activities may be closed"
+                                ],
+                                "description": "Manali, located in the Indian state of Himachal Pradesh, is a popular tourist destination known for its stunning natural beauty and picturesque landscapes. Winter in Manali transforms the region into a winter wonderland, offering a unique and enchanting experience for visitors."
+                            },
+                            {
+                                "reasons": "",
+                                "timeline": "3",
+                                "tags": [
+                                    "Snow"
+                                ],
+                                "temperature": "",
+                                "recommendedFor": "All",
+                                "monthName": "February",
+                                "thingsToCarry": [
+                                    "Thermals",
+                                    "Warm Clothes",
+                                    ""
+                                ],
+                                "notes": [
+                                    "Avoid any high altitude for snow activities on day 1 - get acclimatized well",
+                                    "Check the weather conditions for all your clothing requirements"
+                                ],
+                                "issues": [
+                                    "Few activities may be closed",
+                                    "Roads may be blocked due to heavy snowfall"
+                                ],
+                                "description": "Manali, located in the Indian state of Himachal Pradesh, is a popular tourist destination known for its stunning natural beauty and picturesque landscapes. Winter in Manali transforms the region into a winter wonderland, offering a unique and enchanting experience for visitors."
+                            },
+                            {
+                                "reasons": "",
+                                "timeline": "",
+                                "tags": "",
+                                "temperature": "",
+                                "recommendedFor": "",
+                                "monthName": "March",
+                                "thingsToCarry": [
+                                    ""
+                                ],
+                                "notes": [
+                                    ""
+                                ],
+                                "issues": [
+                                    ""
+                                ],
+                                "description": ""
+                            },
+                            {
+                                "reasons": "",
+                                "timeline": "",
+                                "tags": "",
+                                "temperature": "",
+                                "recommendedFor": "",
+                                "monthName": "April",
+                                "thingsToCarry": [
+                                    ""
+                                ],
+                                "notes": [
+                                    ""
+                                ],
+                                "issues": [
+                                    ""
+                                ],
+                                "description": ""
+                            },
+                            {
+                                "reasons": "",
+                                "timeline": "",
+                                "tags": "",
+                                "temperature": "",
+                                "recommendedFor": "",
+                                "monthName": "May",
+                                "thingsToCarry": [
+                                    ""
+                                ],
+                                "notes": [
+                                    ""
+                                ],
+                                "issues": [
+                                    ""
+                                ],
+                                "description": ""
+                            },
+                            {
+                                "reasons": "",
+                                "timeline": "",
+                                "tags": "",
+                                "temperature": "",
+                                "recommendedFor": "",
+                                "monthName": "June",
+                                "thingsToCarry": [
+                                    ""
+                                ],
+                                "notes": [
+                                    ""
+                                ],
+                                "issues": [
+                                    ""
+                                ],
+                                "description": ""
+                            },
+                            {
+                                "reasons": "",
+                                "timeline": "",
+                                "tags": "",
+                                "temperature": "",
+                                "recommendedFor": "",
+                                "monthName": "July",
+                                "thingsToCarry": [
+                                    ""
+                                ],
+                                "notes": [
+                                    ""
+                                ],
+                                "issues": [
+                                    ""
+                                ],
+                                "description": ""
+                            },
+                            {
+                                "reasons": "",
+                                "timeline": "",
+                                "tags": "",
+                                "temperature": "",
+                                "recommendedFor": "",
+                                "monthName": "August",
+                                "thingsToCarry": [
+                                    ""
+                                ],
+                                "notes": [
+                                    ""
+                                ],
+                                "issues": [
+                                    ""
+                                ],
+                                "description": ""
+                            },
+                            {
+                                "reasons": "",
+                                "timeline": "",
+                                "tags": "",
+                                "temperature": "",
+                                "recommendedFor": "",
+                                "monthName": "September",
+                                "thingsToCarry": [
+                                    ""
+                                ],
+                                "notes": [
+                                    ""
+                                ],
+                                "issues": [
+                                    ""
+                                ],
+                                "description": ""
+                            },
+                            {
+                                "reasons": "",
+                                "timeline": "",
+                                "tags": "",
+                                "temperature": "",
+                                "recommendedFor": "",
+                                "monthName": "October",
+                                "thingsToCarry": [
+                                    ""
+                                ],
+                                "notes": [
+                                    ""
+                                ],
+                                "issues": [
+                                    ""
+                                ],
+                                "description": ""
+                            },
+                            {
+                                "reasons": "",
+                                "timeline": "",
+                                "tags": "",
+                                "temperature": "",
+                                "recommendedFor": "",
+                                "monthName": "November",
+                                "thingsToCarry": [
+                                    ""
+                                ],
+                                "notes": [
+                                    ""
+                                ],
+                                "issues": [
+                                    ""
+                                ],
+                                "description": ""
+                            },
+                            {
+                                "reasons": "",
+                                "timeline": "",
+                                "tags": "",
+                                "temperature": "",
+                                "recommendedFor": "",
+                                "monthName": "December",
+                                "thingsToCarry": [
+                                    ""
+                                ],
+                                "notes": [
+                                    ""
+                                ],
+                                "issues": [
+                                    ""
+                                ],
+                                "description": ""
+                            }
+                        ]
+                    }
+                },
+                "staySelected": {
+                    "id": "646c71b56077d0cd2eefe30b",
+                    "name": "GoStops Manali",
+                    "images": [
+                        "http://thereturnjourney.in/files/Screenshot 2023-05-22 162946.png",
+                        "http://thereturnjourney.in/files/Screenshot 2023-05-22 163007.png"
+                    ],
+                    "description": "Situated just 400 m away from the city center in the Old Manali district of Manali, goSTOPS Manali can be found near popular points of interest including the Tibetan Monastery, Circuit House, and Manu Temple. From rafting, hiking, and biking to skiing and paragliding there are so many adventures on our doorstep to choose from.",
+                    "additionalProp": {
+                        "regionId": "6346e5a43fb4619f9f1a2a41",
+                        "stateId": "6346e8fa3fb461a8c81a2a48",
+                        "address": "Near Oak Land House",
+                        "mapLink": "https://goo.gl/maps/SMa9qWMn1QR85JAP6",
+                        "landMark": {
+                            "landMarkName": "Old Manali",
+                            "landMarkPincode": "175131"
+                        },
+                        "ocassions": [
+                            "63d8005e4dedc468d530d7f0",
+                            "63d8016c4dedc4ed5b30d7f1",
+                            "63d8b2fa4dedc406b330d7f2",
+                            "63d8b3414dedc45c6c30d7f3",
+                            "63d8b37b4dedc4541930d7f4",
+                            "63d8b3914dedc4ee3430d7f5"
+                        ],
+                        "personalities": [
+                            "6347022c3fb46118381a2a90",
+                            "6347022c3fb4613bed1a2a8d",
+                            "6347022c3fb461768c1a2a92",
+                            "6347022c3fb4617b0b1a2a8f",
+                            "6347022c3fb46182961a2a8e",
+                            "6347022c3fb461cf591a2a8b",
+                            "6347022c3fb461df901a2a91",
+                            "6347022c3fb461e8781a2a8c"
+                        ],
+                        "addLink": [
+                            "https://www.booking.com/Share-qWPgy0"
+                        ]
+                    },
+                    "staycategoryId": "63d213534dedc48b8030d796",
+                    "cityId": "646c6aca6077d08329efe304",
+                    "staycategory": {
+                        "name": "Hostel",
+                        "id": "63d213534dedc48b8030d796"
+                    },
+                    "city": {
+                        "name": "Manali",
+                        "id": "646c6aca6077d08329efe304"
+                    }
+                },
+                "activitySelected": [
+                    {
+                        "name": "Rafting in Kullu and Manali",
+                        "description": "Rafting in Manali is an exciting adventure activity that allows you to experience the thrill of navigating through fast-flowing rivers amidst beautiful landscapes. Manali, located in the Indian state of Himachal Pradesh, offers several opportunities for river rafting due to its proximity to the Beas River.",
+                        "id": "6471dafdc2a6cf343550c454",
+                        "openningTime": {
+                            "openDays": [
+                                "2023-05-26T18:30:00.000Z",
+                                "2024-05-30T18:30:00.000Z"
+                            ],
+                            "openTime": "08:00"
+                        },
+                        "closingTime": {
+                            "closeDays": [
+                                "2023-06-30T18:30:00.000Z",
+                                "2023-07-30T18:30:00.000Z"
+                            ],
+                            "closeTime": "17:00"
+                        },
+                        "idealTimeToVisit": {
+                            "idealTime": "Whole Day",
+                            "idealDuration": "2 Hours"
+                        },
+                        "location": {
+                            "regionId": "6346e5a43fb4619f9f1a2a41",
+                            "stateId": "6346e8fa3fb461a8c81a2a48",
+                            "cityId": "646c6aca6077d08329efe304",
+                            "address": "Kullu ",
+                            "landMark": {
+                                "landMarkName": "Kullu",
+                                "landMarkPincode": "175101"
+                            }
+                        },
+                        "cost": [
+                            {
+                                "7 KM": {
+                                    "citizen": "Indian",
+                                    "individual": "500",
+                                    "student": "",
+                                    "fee": "7 KM"
+                                }
+                            },
+                            {
+                                "9 KM": {
+                                    "citizen": "Indian",
+                                    "individual": "700",
+                                    "student": "",
+                                    "fee": "9 KM"
+                                }
+                            },
+                            {
+                                "12 KM": {
+                                    "citizen": "Indian",
+                                    "individual": "900",
+                                    "student": "",
+                                    "fee": "12 KM"
+                                }
+                            }
+                        ],
+                        "scope": false,
+                        "vendorInstructions": {
+                            "notes": [
+                                "You don’t need to know swimming for this activity"
+                            ],
+                            "issues": [
+                                "During rains, it remain closed"
+                            ],
+                            "inclusions": [
+                                "Guide",
+                                "Rafting equipments",
+                                "Life Jacket"
+                            ],
+                            "exclusions": [
+                                "Clothes Changing booth cost (approximate 10- 20 INR)",
+                                "If booking only rafting, to & from charges",
+                                "Anything not mentioned in inclusions"
+                            ],
+                            "suggestions": [
+                                "Extra pair of clothes",
+                                "Carry bag to carry wet clothes"
+                            ]
+                        },
+                        "disabled": false,
+                        "selectedVendor": true,
+                        "addtionalData": {
+                            "ocassions": [
+                                "63d8005e4dedc468d530d7f0",
+                                "63d8016c4dedc4ed5b30d7f1",
+                                "63d8b2fa4dedc406b330d7f2",
+                                "63d8b3414dedc45c6c30d7f3",
+                                "63d8b37b4dedc4541930d7f4",
+                                "63d8b3914dedc4ee3430d7f5"
+                            ],
+                            "personalities": [],
+                            "activityTags": "river, rafting",
+                            "images": [
+                                "http://thereturnjourney.in/files/rafting.jpeg",
+                                "http://thereturnjourney.in/files/rafting_1.jpg"
+                            ],
+                            "additionalCharges": [
+                                {
+                                    "title": "GoPro",
+                                    "pricing": "200"
+                                }
+                            ]
+                        },
+                        "cityId": "646c6aca6077d08329efe304",
+                        "activityId": "646c734b6077d0eaf1efe30c",
+                        "city": {
+                            "name": "Manali",
+                            "id": "646c6aca6077d08329efe304"
+                        },
+                        "activity": {
+                            "id": "646c734b6077d0eaf1efe30c",
+                            "name": "Rafting",
+                            "activitycategoryId": "644fec44b0d820423b27cff5",
+                            "activitycategory": {
+                                "name": "Adventure Sports",
+                                "id": "644fec44b0d820423b27cff5"
+                            }
+                        }
+                    },
+                    {
+                        "name": "Paragliding Near Rohtang La",
+                        "description": "Rohtang Wala - Paragliding is a recreational and competitive adventure sport that involves flying a lightweight, foot-launched glider aircraft known as a paraglider.",
+                        "id": "64743bcf74fa4b211783c0d2",
+                        "openningTime": {
+                            "openDays": [
+                                "2023-05-09T18:30:00.000Z",
+                                "2023-06-14T18:30:00.000Z"
+                            ],
+                            "openTime": "09:00"
+                        },
+                        "closingTime": {
+                            "closeDays": "",
+                            "closeTime": "16:00"
+                        },
+                        "idealTimeToVisit": {
+                            "idealTime": "Late Afternoon",
+                            "idealDuration": "3 Hours"
+                        },
+                        "location": {
+                            "regionId": "6346e5a43fb4619f9f1a2a41",
+                            "stateId": "6346e8fa3fb461a8c81a2a48",
+                            "cityId": "646c6aca6077d08329efe304",
+                            "address": "857V+WMW",
+                            "landMark": {
+                                "landMarkName": "Kothi",
+                                "landMarkPincode": "175103"
+                            }
+                        },
+                        "cost": [
+                            {
+                                "25 minutes": {
+                                    "citizen": "Indian",
+                                    "individual": "3500",
+                                    "student": "",
+                                    "fee": "25 minutes"
+                                }
+                            }
+                        ],
+                        "scope": false,
+                        "vendorInstructions": {
+                            "notes": [
+                                "Bahutich kam time rehta ye saalme",
+                                "Mast h ekdam karneka ye mauka mila to"
+                            ],
+                            "issues": [
+                                "Clouds me nahi hota re baba",
+                                "Any random moment it may get canceled due to weather conditions and situation at that moment"
+                            ],
+                            "inclusions": [
+                                "Kuch nahi milega re tereko tu paisa bharneka and bhagwan bharose rehneka",
+                                "Agar pura gadi book kara rahenga to thik h varna vaha paragliding site the kon tera baap pahuchayega kya"
+                            ],
+                            "exclusions": [
+                                "Sabkuch kabhi kabhi to paragliding bhi exclusion me aa sakta miya"
+                            ],
+                            "suggestions": []
+                        },
+                        "disabled": false,
+                        "selectedVendor": true,
+                        "addtionalData": {
+                            "ocassions": [
+                                "63d8005e4dedc468d530d7f0",
+                                "63d8016c4dedc4ed5b30d7f1",
+                                "63d8b2fa4dedc406b330d7f2",
+                                "63d8b3414dedc45c6c30d7f3",
+                                "63d8b37b4dedc4541930d7f4",
+                                "63d8b3914dedc4ee3430d7f5"
+                            ],
+                            "personalities": "",
+                            "activityTags": "ThikKardoPlease",
+                            "images": [
+                                "http://thereturnjourney.in/files/ROhtang Para 2.png",
+                                "http://thereturnjourney.in/files/Rohtang Paragliding.png"
+                            ],
+                            "additionalCharges": [
+                                {
+                                    "title": "Camera",
+                                    "pricing": "500"
+                                }
+                            ]
+                        },
+                        "cityId": "646c6aca6077d08329efe304",
+                        "activityId": "6474302874fa4b0c3183c0ca",
+                        "city": {
+                            "name": "Manali",
+                            "id": "646c6aca6077d08329efe304"
+                        },
+                        "activity": {
+                            "id": "6474302874fa4b0c3183c0ca",
+                            "name": "Paragliding",
+                            "activitycategoryId": "644fec44b0d820423b27cff5",
+                            "activitycategory": {
+                                "name": "Adventure Sports",
+                                "id": "644fec44b0d820423b27cff5"
+                            }
+                        }
+                    },
+                    {
+                        "name": "Manu Temple",
+                        "description": "Manu temple is located in Old Manali village. It is believed that Manu after the great deluge, first stepped on earth from the celestial boat and this particular spot where he established his abode is the present Manali, which is derived from ‘Manu Allaya’, meaning the home of Manu. It was from here that the human race came into being after deluge. The Manu temple is the only temple on the earth dedicated to Manu.",
+                        "id": "6485709feb4ef75ce8a86bf8",
+                        "openningTime": {
+                            "openDays": [
+                                "2023-06-10T18:30:00.000Z",
+                                "2024-06-10T18:30:00.000Z"
+                            ],
+                            "openTime": ""
+                        },
+                        "closingTime": {
+                            "closeDays": "",
+                            "closeTime": ""
+                        },
+                        "idealTimeToVisit": {
+                            "idealTime": "1",
+                            "idealDuration": "1 Hour"
+                        },
+                        "location": {
+                            "regionId": "6346e5a43fb4619f9f1a2a41",
+                            "stateId": "6346e8fa3fb461a8c81a2a48",
+                            "cityId": "646c6aca6077d08329efe304",
+                            "address": "Himachal Pradesh, Near Manu temple, Manu Temple Rd, Old Manali, Manali, Himachal Pradesh 175131",
+                            "landMark": {
+                                "landMarkName": "Manu Temple Road",
+                                "landMarkPincode": "175131"
+                            }
+                        },
+                        "cost": [
+                            {
+                                "": {
+                                    "citizen": "",
+                                    "individual": "",
+                                    "student": "",
+                                    "fee": ""
+                                }
+                            }
+                        ],
+                        "scope": false,
+                        "vendorInstructions": {
+                            "notes": [
+                                "The auto charges whooping Rs.200 to go to this temple from Old Manali Bridge",
+                                "The way towards temple has lot of hippie style cafes and Tatto shops. There are many shops selling leather items."
+                            ],
+                            "issues": [
+                                "Its difficult for drivers to drive as it has steep road. ",
+                                "Parking issues"
+                            ],
+                            "inclusions": [],
+                            "exclusions": [],
+                            "suggestions": [
+                                "Please dont litter around, It is a historic temple and it should be kept clean."
+                            ]
+                        },
+                        "disabled": false,
+                        "selectedVendor": true,
+                        "addtionalData": {
+                            "ocassions": [
+                                "63d8005e4dedc468d530d7f0",
+                                "63d8016c4dedc4ed5b30d7f1",
+                                "63d8b2fa4dedc406b330d7f2",
+                                "63d8b3414dedc45c6c30d7f3",
+                                "63d8b37b4dedc4541930d7f4",
+                                "63d8b3914dedc4ee3430d7f5"
+                            ],
+                            "personalities": [
+                                "6347022c3fb46118381a2a90",
+                                "6347022c3fb4613bed1a2a8d",
+                                "6347022c3fb461768c1a2a92",
+                                "6347022c3fb4617b0b1a2a8f",
+                                "6347022c3fb46182961a2a8e",
+                                "6347022c3fb461cf591a2a8b",
+                                "6347022c3fb461df901a2a91",
+                                "6347022c3fb461e8781a2a8c"
+                            ],
+                            "activityTags": "ancient temple",
+                            "images": [
+                                "http://thereturnjourney.in/files/ManuTemple.jpg",
+                                "http://thereturnjourney.in/files/ManuTemple1.jpg"
+                            ],
+                            "additionalCharges": []
+                        },
+                        "cityId": "646c6aca6077d08329efe304",
+                        "activityId": "646fe802f7d0fecfbacd07cf",
+                        "city": {
+                            "name": "Manali",
+                            "id": "646c6aca6077d08329efe304"
+                        },
+                        "activity": {
+                            "id": "646fe802f7d0fecfbacd07cf",
+                            "name": "Temple Visit",
+                            "activitycategoryId": "644fec44b0d820a85c27cff9",
+                            "activitycategory": {
+                                "name": "Art & Culture",
+                                "id": "644fec44b0d820a85c27cff9"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "day": 3,
+                "selectedcity": {
+                    "uniqueId": "ManaliNIHP1",
+                    "localId": "ManaliNIHP1",
+                    "name": "Manali",
+                    "id": "646c6aca6077d08329efe304",
+                    "stateId": "6346e8fa3fb461a8c81a2a48",
+                    "activitycategoryIds": [
+                        "6347022c3fb46118381a2a90",
+                        "6347022c3fb4613bed1a2a8d",
+                        "6347022c3fb461768c1a2a92",
+                        "6347022c3fb4617b0b1a2a8f",
+                        "6347022c3fb46182961a2a8e",
+                        "6347022c3fb461cf591a2a8b",
+                        "6347022c3fb461df901a2a91",
+                        "6347022c3fb461e8781a2a8c"
+                    ],
+                    "personalitiesIds": [
+                        "6347022c3fb46118381a2a90",
+                        "6347022c3fb4613bed1a2a8d",
+                        "6347022c3fb461768c1a2a92",
+                        "6347022c3fb4617b0b1a2a8f",
+                        "6347022c3fb46182961a2a8e",
+                        "6347022c3fb461cf591a2a8b",
+                        "6347022c3fb461df901a2a91",
+                        "6347022c3fb461e8781a2a8c"
+                    ],
+                    "transportIds": [],
+                    "additionalProp1": {
+                        "overViewMonths": [
+                            {
+                                "reasons": "NA",
+                                "timeline": "3",
+                                "tags": [
+                                    "Snow",
+                                    "Mountains",
+                                    "Adventure Sports",
+                                    "Rafting"
+                                ],
+                                "temperature": "",
+                                "recommendedFor": "All",
+                                "monthName": "January",
+                                "thingsToCarry": [
+                                    "Thermals",
+                                    "Jacket",
+                                    "Gloves",
+                                    "Warm Clothes"
+                                ],
+                                "notes": [
+                                    "Avoid any high altitude for snow activities on day 1 - get acclimatized well",
+                                    "Check the weather conditions for all your clothing requirements"
+                                ],
+                                "issues": [
+                                    "Roads may be blocked due to heavy snowfall",
+                                    "Few activities may be closed"
+                                ],
+                                "description": "Manali, located in the Indian state of Himachal Pradesh, is a popular tourist destination known for its stunning natural beauty and picturesque landscapes. Winter in Manali transforms the region into a winter wonderland, offering a unique and enchanting experience for visitors."
+                            },
+                            {
+                                "reasons": "",
+                                "timeline": "3",
+                                "tags": [
+                                    "Snow"
+                                ],
+                                "temperature": "",
+                                "recommendedFor": "All",
+                                "monthName": "February",
+                                "thingsToCarry": [
+                                    "Thermals",
+                                    "Warm Clothes",
+                                    ""
+                                ],
+                                "notes": [
+                                    "Avoid any high altitude for snow activities on day 1 - get acclimatized well",
+                                    "Check the weather conditions for all your clothing requirements"
+                                ],
+                                "issues": [
+                                    "Few activities may be closed",
+                                    "Roads may be blocked due to heavy snowfall"
+                                ],
+                                "description": "Manali, located in the Indian state of Himachal Pradesh, is a popular tourist destination known for its stunning natural beauty and picturesque landscapes. Winter in Manali transforms the region into a winter wonderland, offering a unique and enchanting experience for visitors."
+                            },
+                            {
+                                "reasons": "",
+                                "timeline": "",
+                                "tags": "",
+                                "temperature": "",
+                                "recommendedFor": "",
+                                "monthName": "March",
+                                "thingsToCarry": [
+                                    ""
+                                ],
+                                "notes": [
+                                    ""
+                                ],
+                                "issues": [
+                                    ""
+                                ],
+                                "description": ""
+                            },
+                            {
+                                "reasons": "",
+                                "timeline": "",
+                                "tags": "",
+                                "temperature": "",
+                                "recommendedFor": "",
+                                "monthName": "April",
+                                "thingsToCarry": [
+                                    ""
+                                ],
+                                "notes": [
+                                    ""
+                                ],
+                                "issues": [
+                                    ""
+                                ],
+                                "description": ""
+                            },
+                            {
+                                "reasons": "",
+                                "timeline": "",
+                                "tags": "",
+                                "temperature": "",
+                                "recommendedFor": "",
+                                "monthName": "May",
+                                "thingsToCarry": [
+                                    ""
+                                ],
+                                "notes": [
+                                    ""
+                                ],
+                                "issues": [
+                                    ""
+                                ],
+                                "description": ""
+                            },
+                            {
+                                "reasons": "",
+                                "timeline": "",
+                                "tags": "",
+                                "temperature": "",
+                                "recommendedFor": "",
+                                "monthName": "June",
+                                "thingsToCarry": [
+                                    ""
+                                ],
+                                "notes": [
+                                    ""
+                                ],
+                                "issues": [
+                                    ""
+                                ],
+                                "description": ""
+                            },
+                            {
+                                "reasons": "",
+                                "timeline": "",
+                                "tags": "",
+                                "temperature": "",
+                                "recommendedFor": "",
+                                "monthName": "July",
+                                "thingsToCarry": [
+                                    ""
+                                ],
+                                "notes": [
+                                    ""
+                                ],
+                                "issues": [
+                                    ""
+                                ],
+                                "description": ""
+                            },
+                            {
+                                "reasons": "",
+                                "timeline": "",
+                                "tags": "",
+                                "temperature": "",
+                                "recommendedFor": "",
+                                "monthName": "August",
+                                "thingsToCarry": [
+                                    ""
+                                ],
+                                "notes": [
+                                    ""
+                                ],
+                                "issues": [
+                                    ""
+                                ],
+                                "description": ""
+                            },
+                            {
+                                "reasons": "",
+                                "timeline": "",
+                                "tags": "",
+                                "temperature": "",
+                                "recommendedFor": "",
+                                "monthName": "September",
+                                "thingsToCarry": [
+                                    ""
+                                ],
+                                "notes": [
+                                    ""
+                                ],
+                                "issues": [
+                                    ""
+                                ],
+                                "description": ""
+                            },
+                            {
+                                "reasons": "",
+                                "timeline": "",
+                                "tags": "",
+                                "temperature": "",
+                                "recommendedFor": "",
+                                "monthName": "October",
+                                "thingsToCarry": [
+                                    ""
+                                ],
+                                "notes": [
+                                    ""
+                                ],
+                                "issues": [
+                                    ""
+                                ],
+                                "description": ""
+                            },
+                            {
+                                "reasons": "",
+                                "timeline": "",
+                                "tags": "",
+                                "temperature": "",
+                                "recommendedFor": "",
+                                "monthName": "November",
+                                "thingsToCarry": [
+                                    ""
+                                ],
+                                "notes": [
+                                    ""
+                                ],
+                                "issues": [
+                                    ""
+                                ],
+                                "description": ""
+                            },
+                            {
+                                "reasons": "",
+                                "timeline": "",
+                                "tags": "",
+                                "temperature": "",
+                                "recommendedFor": "",
+                                "monthName": "December",
+                                "thingsToCarry": [
+                                    ""
+                                ],
+                                "notes": [
+                                    ""
+                                ],
+                                "issues": [
+                                    ""
+                                ],
+                                "description": ""
+                            }
+                        ]
+                    }
+                },
+                "staySelected": {
+                    "id": "646c71b56077d0cd2eefe30b",
+                    "name": "GoStops Manali",
+                    "images": [
+                        "http://thereturnjourney.in/files/Screenshot 2023-05-22 162946.png",
+                        "http://thereturnjourney.in/files/Screenshot 2023-05-22 163007.png"
+                    ],
+                    "description": "Situated just 400 m away from the city center in the Old Manali district of Manali, goSTOPS Manali can be found near popular points of interest including the Tibetan Monastery, Circuit House, and Manu Temple. From rafting, hiking, and biking to skiing and paragliding there are so many adventures on our doorstep to choose from.",
+                    "additionalProp": {
+                        "regionId": "6346e5a43fb4619f9f1a2a41",
+                        "stateId": "6346e8fa3fb461a8c81a2a48",
+                        "address": "Near Oak Land House",
+                        "mapLink": "https://goo.gl/maps/SMa9qWMn1QR85JAP6",
+                        "landMark": {
+                            "landMarkName": "Old Manali",
+                            "landMarkPincode": "175131"
+                        },
+                        "ocassions": [
+                            "63d8005e4dedc468d530d7f0",
+                            "63d8016c4dedc4ed5b30d7f1",
+                            "63d8b2fa4dedc406b330d7f2",
+                            "63d8b3414dedc45c6c30d7f3",
+                            "63d8b37b4dedc4541930d7f4",
+                            "63d8b3914dedc4ee3430d7f5"
+                        ],
+                        "personalities": [
+                            "6347022c3fb46118381a2a90",
+                            "6347022c3fb4613bed1a2a8d",
+                            "6347022c3fb461768c1a2a92",
+                            "6347022c3fb4617b0b1a2a8f",
+                            "6347022c3fb46182961a2a8e",
+                            "6347022c3fb461cf591a2a8b",
+                            "6347022c3fb461df901a2a91",
+                            "6347022c3fb461e8781a2a8c"
+                        ],
+                        "addLink": [
+                            "https://www.booking.com/Share-qWPgy0"
+                        ]
+                    },
+                    "staycategoryId": "63d213534dedc48b8030d796",
+                    "cityId": "646c6aca6077d08329efe304",
+                    "staycategory": {
+                        "name": "Hostel",
+                        "id": "63d213534dedc48b8030d796"
+                    },
+                    "city": {
+                        "name": "Manali",
+                        "id": "646c6aca6077d08329efe304"
+                    }
+                },
+                "activitySelected": [
+                    {
+                        "name": "Rafting in Kullu and Manali",
+                        "description": "Rafting in Manali is an exciting adventure activity that allows you to experience the thrill of navigating through fast-flowing rivers amidst beautiful landscapes. Manali, located in the Indian state of Himachal Pradesh, offers several opportunities for river rafting due to its proximity to the Beas River.",
+                        "id": "6471dafdc2a6cf343550c454",
+                        "openningTime": {
+                            "openDays": [
+                                "2023-05-26T18:30:00.000Z",
+                                "2024-05-30T18:30:00.000Z"
+                            ],
+                            "openTime": "08:00"
+                        },
+                        "closingTime": {
+                            "closeDays": [
+                                "2023-06-30T18:30:00.000Z",
+                                "2023-07-30T18:30:00.000Z"
+                            ],
+                            "closeTime": "17:00"
+                        },
+                        "idealTimeToVisit": {
+                            "idealTime": "Whole Day",
+                            "idealDuration": "2 Hours"
+                        },
+                        "location": {
+                            "regionId": "6346e5a43fb4619f9f1a2a41",
+                            "stateId": "6346e8fa3fb461a8c81a2a48",
+                            "cityId": "646c6aca6077d08329efe304",
+                            "address": "Kullu ",
+                            "landMark": {
+                                "landMarkName": "Kullu",
+                                "landMarkPincode": "175101"
+                            }
+                        },
+                        "cost": [
+                            {
+                                "7 KM": {
+                                    "citizen": "Indian",
+                                    "individual": "500",
+                                    "student": "",
+                                    "fee": "7 KM"
+                                }
+                            },
+                            {
+                                "9 KM": {
+                                    "citizen": "Indian",
+                                    "individual": "700",
+                                    "student": "",
+                                    "fee": "9 KM"
+                                }
+                            },
+                            {
+                                "12 KM": {
+                                    "citizen": "Indian",
+                                    "individual": "900",
+                                    "student": "",
+                                    "fee": "12 KM"
+                                }
+                            }
+                        ],
+                        "scope": false,
+                        "vendorInstructions": {
+                            "notes": [
+                                "You don’t need to know swimming for this activity"
+                            ],
+                            "issues": [
+                                "During rains, it remain closed"
+                            ],
+                            "inclusions": [
+                                "Guide",
+                                "Rafting equipments",
+                                "Life Jacket"
+                            ],
+                            "exclusions": [
+                                "Clothes Changing booth cost (approximate 10- 20 INR)",
+                                "If booking only rafting, to & from charges",
+                                "Anything not mentioned in inclusions"
+                            ],
+                            "suggestions": [
+                                "Extra pair of clothes",
+                                "Carry bag to carry wet clothes"
+                            ]
+                        },
+                        "disabled": false,
+                        "selectedVendor": true,
+                        "addtionalData": {
+                            "ocassions": [
+                                "63d8005e4dedc468d530d7f0",
+                                "63d8016c4dedc4ed5b30d7f1",
+                                "63d8b2fa4dedc406b330d7f2",
+                                "63d8b3414dedc45c6c30d7f3",
+                                "63d8b37b4dedc4541930d7f4",
+                                "63d8b3914dedc4ee3430d7f5"
+                            ],
+                            "personalities": [],
+                            "activityTags": "river, rafting",
+                            "images": [
+                                "http://thereturnjourney.in/files/rafting.jpeg",
+                                "http://thereturnjourney.in/files/rafting_1.jpg"
+                            ],
+                            "additionalCharges": [
+                                {
+                                    "title": "GoPro",
+                                    "pricing": "200"
+                                }
+                            ]
+                        },
+                        "cityId": "646c6aca6077d08329efe304",
+                        "activityId": "646c734b6077d0eaf1efe30c",
+                        "city": {
+                            "name": "Manali",
+                            "id": "646c6aca6077d08329efe304"
+                        },
+                        "activity": {
+                            "id": "646c734b6077d0eaf1efe30c",
+                            "name": "Rafting",
+                            "activitycategoryId": "644fec44b0d820423b27cff5",
+                            "activitycategory": {
+                                "name": "Adventure Sports",
+                                "id": "644fec44b0d820423b27cff5"
+                            }
+                        }
+                    },
+                    {
+                        "name": "Paragliding Near Rohtang La",
+                        "description": "Rohtang Wala - Paragliding is a recreational and competitive adventure sport that involves flying a lightweight, foot-launched glider aircraft known as a paraglider.",
+                        "id": "64743bcf74fa4b211783c0d2",
+                        "openningTime": {
+                            "openDays": [
+                                "2023-05-09T18:30:00.000Z",
+                                "2023-06-14T18:30:00.000Z"
+                            ],
+                            "openTime": "09:00"
+                        },
+                        "closingTime": {
+                            "closeDays": "",
+                            "closeTime": "16:00"
+                        },
+                        "idealTimeToVisit": {
+                            "idealTime": "Late Afternoon",
+                            "idealDuration": "3 Hours"
+                        },
+                        "location": {
+                            "regionId": "6346e5a43fb4619f9f1a2a41",
+                            "stateId": "6346e8fa3fb461a8c81a2a48",
+                            "cityId": "646c6aca6077d08329efe304",
+                            "address": "857V+WMW",
+                            "landMark": {
+                                "landMarkName": "Kothi",
+                                "landMarkPincode": "175103"
+                            }
+                        },
+                        "cost": [
+                            {
+                                "25 minutes": {
+                                    "citizen": "Indian",
+                                    "individual": "3500",
+                                    "student": "",
+                                    "fee": "25 minutes"
+                                }
+                            }
+                        ],
+                        "scope": false,
+                        "vendorInstructions": {
+                            "notes": [
+                                "Bahutich kam time rehta ye saalme",
+                                "Mast h ekdam karneka ye mauka mila to"
+                            ],
+                            "issues": [
+                                "Clouds me nahi hota re baba",
+                                "Any random moment it may get canceled due to weather conditions and situation at that moment"
+                            ],
+                            "inclusions": [
+                                "Kuch nahi milega re tereko tu paisa bharneka and bhagwan bharose rehneka",
+                                "Agar pura gadi book kara rahenga to thik h varna vaha paragliding site the kon tera baap pahuchayega kya"
+                            ],
+                            "exclusions": [
+                                "Sabkuch kabhi kabhi to paragliding bhi exclusion me aa sakta miya"
+                            ],
+                            "suggestions": []
+                        },
+                        "disabled": false,
+                        "selectedVendor": true,
+                        "addtionalData": {
+                            "ocassions": [
+                                "63d8005e4dedc468d530d7f0",
+                                "63d8016c4dedc4ed5b30d7f1",
+                                "63d8b2fa4dedc406b330d7f2",
+                                "63d8b3414dedc45c6c30d7f3",
+                                "63d8b37b4dedc4541930d7f4",
+                                "63d8b3914dedc4ee3430d7f5"
+                            ],
+                            "personalities": "",
+                            "activityTags": "ThikKardoPlease",
+                            "images": [
+                                "http://thereturnjourney.in/files/ROhtang Para 2.png",
+                                "http://thereturnjourney.in/files/Rohtang Paragliding.png"
+                            ],
+                            "additionalCharges": [
+                                {
+                                    "title": "Camera",
+                                    "pricing": "500"
+                                }
+                            ]
+                        },
+                        "cityId": "646c6aca6077d08329efe304",
+                        "activityId": "6474302874fa4b0c3183c0ca",
+                        "city": {
+                            "name": "Manali",
+                            "id": "646c6aca6077d08329efe304"
+                        },
+                        "activity": {
+                            "id": "6474302874fa4b0c3183c0ca",
+                            "name": "Paragliding",
+                            "activitycategoryId": "644fec44b0d820423b27cff5",
+                            "activitycategory": {
+                                "name": "Adventure Sports",
+                                "id": "644fec44b0d820423b27cff5"
+                            }
+                        }
+                    }
+                ]
+            }
+        ],
+        "transportation": {
+            "primary": {
+                "departure": "Train(s)",
+                "arrival": "Train(s)"
+            },
+            "secondary": "Self Drive"
+        }
+    },
+    "userId": "6481d81607862ed3d91f331d",
+    "additionalProp1": {}
+}
